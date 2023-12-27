@@ -33,7 +33,7 @@ class HomeState extends State<HomePage> {
         centerTitle: true,
         backgroundColor: Colors.teal[600],
       ),
-      backgroundColor: Colors.black,
+      backgroundColor: Colors.blue,
       body:
       Column(
           children: <Widget>[
