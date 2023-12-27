@@ -1,6 +1,6 @@
 # my_app
 
-Finally an app.
+calculator app.
 
 ## Getting Started
 
