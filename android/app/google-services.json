@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743355870721",
+    "project_id": "calci-524ec",
+    "storage_bucket": "calci-524ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743355870721:android:7de56a3be90dd1fe3f9a00",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWoKMNwcks6bYY25e8xnFrDmwlEKPWyfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
